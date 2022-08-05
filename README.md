@@ -38,7 +38,7 @@ Error code 404
 
 ## Overview
 
-![screenshot](./https://github.com/singhnavya2016/404-not-found/blob/main/400-not-found/404not-found.png)
+![screenshot](https://github.com/singhnavya2016/404-not-found/blob/main/400-not-found/404not-found.png)
 
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
